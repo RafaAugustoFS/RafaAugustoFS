@@ -8,7 +8,7 @@
 <div>
     <a href="https://github.com/RafaAugustoFS"></a>
     <img height="180em" src="https://github-readme-stats.vercel.app/api?username=RafaAugustoFS&show_icons=true&theme=transparent&include_all_commits=true&count_private=true">
-    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=RafaAugustoFS&layout=compact&langs_count=16&theme=transparent">
+    <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=RafaAugustoFS&layout=compact&hide_border=true&title_color=CCCCCC&text_color=CCCCCC&bg_color=0000" />
 </div>
 
 ## Habilidades
